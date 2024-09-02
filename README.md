@@ -7,8 +7,8 @@ Tool di discord molto biologico ⚠️
 1. Install.bat
 2. Start.bat
 
-For Nuker enter --> nuker
-For Raid enter --> raid
+- For Nuker enter --> nuker
+- For Raid enter --> raid
 
 # ⚠️ Warning ⚠️
 
